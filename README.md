@@ -1,4 +1,5 @@
 # Discord Bot Projects
 
-##Projects
-###Random Image Uploader
+## Projects
+
+### Random Image Uploader
